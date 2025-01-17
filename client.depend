@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1605871041 source:e:\dev\ñpp\client\main.c
+	<winsock2.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdio.h>
+	<windows.h>
+	<tchar.h>
+	<winsock2.h>
+	<VersionHelpers.h>
+	<ws2tcpip.h>
+	<tlhelp32.h>
+
